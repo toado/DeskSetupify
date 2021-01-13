@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# DeskSetupify
+
+Explore desk setups from various subreddits for your inspirational needs.
+
+Idea inspired by my personal love of seeing how others personalize their workspace with a sprinkle of Instagram & Pinterest for project's design.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
